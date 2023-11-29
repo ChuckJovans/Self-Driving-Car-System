@@ -4,3 +4,4 @@
 > through use of sensors
 * to locate and know where the edges are
 * to be able to menauer around them all
+* and more
